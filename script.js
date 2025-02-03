@@ -11,7 +11,7 @@ const typed = new Typed(".text", {
 //To download CV ====
 
 document.querySelector(".download-cv").addEventListener("click", () => {
-  const cvPath = "Files/DHARAM_SINGH_Developer_Old.pdf";
+  const cvPath = "Files/Dharam_Singh_Latest_Web.pdf";
   const anchor = document.createElement("a");
   anchor.href = cvPath;
   anchor.download = "Dharam_Singh.pdf";
