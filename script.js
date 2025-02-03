@@ -14,7 +14,7 @@ document.querySelector(".download-cv").addEventListener("click", () => {
   const cvPath = "Files/Dharam_Singh_Latest_Web.pdf";
   const anchor = document.createElement("a");
   anchor.href = cvPath;
-  anchor.download = "Dharam_Singh.pdf";
+  anchor.download = "Dharam_Singh_Resume.pdf";
 
   anchor.click();
 });
