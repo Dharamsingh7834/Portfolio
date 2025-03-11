@@ -23,6 +23,13 @@ document.querySelector(".download-cv").addEventListener("click", () => {
 const projects = [
 
   {
+    title: "To-Do Application",
+    description: "Stay organized and productive with this user-friendly To-Do List app. Easily add, edit, and delete tasks, track your progress, and save tasks for later with local storage. Simplify your daily workflow!",
+    github: "https://github.com/Dharamsingh7834/To-do-Application-",
+    liveDemo: "https://dharamsingh7834.github.io/To-do-Application-/",
+  },
+
+  {
     title: "Background-Gradient-Color-Generator",
     description: "A tool that generates smooth background gradients with customizable colors. Instantly preview and copy CSS code for seamless integration",
     github: "https://github.com/Dharamsingh7834/Background-Gradient-Color-Generator",
